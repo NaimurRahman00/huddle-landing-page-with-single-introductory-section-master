@@ -14,13 +14,13 @@ body {
     background-color: var(--violet);
     background-image: url(images/bg-desktop.svg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-position: center;
+    background-size: 85% 100%;
+    background-position: left;
     font-family: 'Karla', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;  
+    height: 100vh;
 }
 main {
     width: 1280px;
@@ -261,4 +261,5 @@ button:hover {
         margin: 10px;
         margin-left: 0px;
     }
+
 }
